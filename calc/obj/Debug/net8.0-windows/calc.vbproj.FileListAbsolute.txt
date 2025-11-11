@@ -1,0 +1,16 @@
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\bin\Debug\net8.0-windows\calc.exe
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\bin\Debug\net8.0-windows\calc.deps.json
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\bin\Debug\net8.0-windows\calc.runtimeconfig.json
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\bin\Debug\net8.0-windows\calc.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\bin\Debug\net8.0-windows\calc.pdb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\obj\Debug\net8.0-windows\calc.Form1.resources
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\obj\Debug\net8.0-windows\calc.vbproj.GenerateResource.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\obj\Debug\net8.0-windows\calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\obj\Debug\net8.0-windows\calc.AssemblyInfoInputs.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\obj\Debug\net8.0-windows\calc.AssemblyInfo.vb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\obj\Debug\net8.0-windows\calc.vbproj.CoreCompileInputs.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\obj\Debug\net8.0-windows\calc.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\obj\Debug\net8.0-windows\refint\calc.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\obj\Debug\net8.0-windows\calc.pdb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\obj\Debug\net8.0-windows\calc.genruntimeconfig.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\calc\obj\Debug\net8.0-windows\ref\calc.dll
