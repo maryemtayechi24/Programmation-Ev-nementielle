@@ -1,0 +1,16 @@
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\bin\Debug\net8.0-windows\converstion.exe
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\bin\Debug\net8.0-windows\converstion.deps.json
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\bin\Debug\net8.0-windows\converstion.runtimeconfig.json
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\bin\Debug\net8.0-windows\converstion.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\bin\Debug\net8.0-windows\converstion.pdb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\obj\Debug\net8.0-windows\converstion.Form1.resources
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\obj\Debug\net8.0-windows\converstion.vbproj.GenerateResource.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\obj\Debug\net8.0-windows\converstion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\obj\Debug\net8.0-windows\converstion.AssemblyInfoInputs.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\obj\Debug\net8.0-windows\converstion.AssemblyInfo.vb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\obj\Debug\net8.0-windows\converstion.vbproj.CoreCompileInputs.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\obj\Debug\net8.0-windows\converstion.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\obj\Debug\net8.0-windows\refint\converstion.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\obj\Debug\net8.0-windows\converstion.pdb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\obj\Debug\net8.0-windows\converstion.genruntimeconfig.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\converstion\obj\Debug\net8.0-windows\ref\converstion.dll
