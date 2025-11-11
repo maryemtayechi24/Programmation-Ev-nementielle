@@ -1,0 +1,16 @@
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\bin\Debug\net8.0-windows\gestion de stock.exe
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\bin\Debug\net8.0-windows\gestion de stock.deps.json
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\bin\Debug\net8.0-windows\gestion de stock.runtimeconfig.json
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\bin\Debug\net8.0-windows\gestion de stock.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\bin\Debug\net8.0-windows\gestion de stock.pdb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\obj\Debug\net8.0-windows\gestion_de_stock.Form1.resources
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\obj\Debug\net8.0-windows\gestion de stock.vbproj.GenerateResource.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\obj\Debug\net8.0-windows\gestion de stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\obj\Debug\net8.0-windows\gestion de stock.AssemblyInfoInputs.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\obj\Debug\net8.0-windows\gestion de stock.AssemblyInfo.vb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\obj\Debug\net8.0-windows\gestion de stock.vbproj.CoreCompileInputs.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\obj\Debug\net8.0-windows\gestion de stock.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\obj\Debug\net8.0-windows\refint\gestion de stock.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\obj\Debug\net8.0-windows\gestion de stock.pdb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\obj\Debug\net8.0-windows\gestion de stock.genruntimeconfig.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\gestion de stock\obj\Debug\net8.0-windows\ref\gestion de stock.dll
