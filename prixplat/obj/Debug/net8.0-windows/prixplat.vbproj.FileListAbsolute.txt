@@ -1,0 +1,16 @@
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\bin\Debug\net8.0-windows\prixplat.exe
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\bin\Debug\net8.0-windows\prixplat.deps.json
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\bin\Debug\net8.0-windows\prixplat.runtimeconfig.json
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\bin\Debug\net8.0-windows\prixplat.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\bin\Debug\net8.0-windows\prixplat.pdb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\obj\Debug\net8.0-windows\prixplat.Form1.resources
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\obj\Debug\net8.0-windows\prixplat.vbproj.GenerateResource.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\obj\Debug\net8.0-windows\prixplat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\obj\Debug\net8.0-windows\prixplat.AssemblyInfoInputs.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\obj\Debug\net8.0-windows\prixplat.AssemblyInfo.vb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\obj\Debug\net8.0-windows\prixplat.vbproj.CoreCompileInputs.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\obj\Debug\net8.0-windows\prixplat.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\obj\Debug\net8.0-windows\refint\prixplat.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\obj\Debug\net8.0-windows\prixplat.pdb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\obj\Debug\net8.0-windows\prixplat.genruntimeconfig.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\prixplat\obj\Debug\net8.0-windows\ref\prixplat.dll
