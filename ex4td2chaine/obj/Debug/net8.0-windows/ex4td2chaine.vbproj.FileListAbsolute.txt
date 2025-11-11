@@ -1,0 +1,16 @@
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\bin\Debug\net8.0-windows\ex4td2chaine.exe
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\bin\Debug\net8.0-windows\ex4td2chaine.deps.json
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\bin\Debug\net8.0-windows\ex4td2chaine.runtimeconfig.json
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\bin\Debug\net8.0-windows\ex4td2chaine.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\bin\Debug\net8.0-windows\ex4td2chaine.pdb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\obj\Debug\net8.0-windows\ex4td2chaine.Form1.resources
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\obj\Debug\net8.0-windows\ex4td2chaine.vbproj.GenerateResource.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\obj\Debug\net8.0-windows\ex4td2chaine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\obj\Debug\net8.0-windows\ex4td2chaine.AssemblyInfoInputs.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\obj\Debug\net8.0-windows\ex4td2chaine.AssemblyInfo.vb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\obj\Debug\net8.0-windows\ex4td2chaine.vbproj.CoreCompileInputs.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\obj\Debug\net8.0-windows\ex4td2chaine.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\obj\Debug\net8.0-windows\refint\ex4td2chaine.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\obj\Debug\net8.0-windows\ex4td2chaine.pdb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\obj\Debug\net8.0-windows\ex4td2chaine.genruntimeconfig.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation web\ex4td2chaine\obj\Debug\net8.0-windows\ref\ex4td2chaine.dll
