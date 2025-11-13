@@ -1,0 +1,16 @@
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\bin\Debug\net8.0-windows\td3.exe
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\bin\Debug\net8.0-windows\td3.deps.json
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\bin\Debug\net8.0-windows\td3.runtimeconfig.json
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\bin\Debug\net8.0-windows\td3.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\bin\Debug\net8.0-windows\td3.pdb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\obj\Debug\net8.0-windows\td3.frmcommande.resources
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\obj\Debug\net8.0-windows\td3.vbproj.GenerateResource.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\obj\Debug\net8.0-windows\td3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\obj\Debug\net8.0-windows\td3.AssemblyInfoInputs.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\obj\Debug\net8.0-windows\td3.AssemblyInfo.vb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\obj\Debug\net8.0-windows\td3.vbproj.CoreCompileInputs.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\obj\Debug\net8.0-windows\td3.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\obj\Debug\net8.0-windows\refint\td3.dll
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\obj\Debug\net8.0-windows\td3.pdb
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\obj\Debug\net8.0-windows\td3.genruntimeconfig.cache
+C:\Users\tayec\OneDrive\Bureau\2eme info de gestion\programmation eventionnel\td3\obj\Debug\net8.0-windows\ref\td3.dll
